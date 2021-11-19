@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+*.swp
+debug
+.vscode
+config/config.yml
+models
+*.mp4
+*.ts
+*.db
+frigate/version.py
+web/build
+web/node_modules
+web/coverage
+core
